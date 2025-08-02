@@ -1,5 +1,5 @@
 const Api = "9fa8999e4e80625dc298a7a03924d0ff";
-const apiurl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q="
+const apiurl = "YOUR_API_KEY_HERE"
 
 const searchBar = document.querySelector("#searchBar input");
 const searchBtn = document.querySelector("#searchBar button");
@@ -38,3 +38,4 @@ async function checkWeather(city) {
 searchBtn.addEventListener("click",() =>{
 	checkWeather(searchBar.value);
 })
+
