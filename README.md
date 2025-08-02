@@ -17,11 +17,11 @@ A simple and responsive Weather Application that allows users to check real-time
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your app UI here)*
+> <img width="1893" height="922" alt="image" src="https://github.com/user-attachments/assets/8a73c1c3-e25e-4308-bd7e-bd9eef5b95e0" />
+
 
 ## 📦 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
    cd weather-app
