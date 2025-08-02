@@ -24,4 +24,5 @@ A simple and responsive Weather Application that allows users to check real-time
 
 1. Clone the repository:
    ```bash
+   https://github.com/binau0018/Weather-app/
    cd weather-app
